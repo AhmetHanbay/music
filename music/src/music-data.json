@@ -1,0 +1,137 @@
+[
+    {
+      "id": "0",
+      "title": "Yok mu ?",
+      "artist": "Oğuzhan Koç",
+      "album": "(Single)",
+      "year": 2023,
+      "isSoldOut": true,
+      "imageUrl": "https://www.sozmuzik.com/wp-content/uploads/2023/07/oguzhan_koc18-640x640.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Biri Vardı",
+      "artist": "Pera",
+      "album": "(Single)",
+      "year": 2015,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5b3a9f3df8f6550fcf2e40b"
+    },
+    {
+      "id": "2",
+      "title": "Ali Cabbar",
+      "artist": "Emir Can İğrek",
+      "album": "Neyse",
+      "year": 2023,
+      "isSoldOut": false,
+      "imageUrl": "https://i.ytimg.com/vi/eK58EzxkE28/maxresdefault.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sakladığın Bir Şeyler Var",
+      "artist": "Dedüblüman",
+      "album": "(Single)",
+      "year": 2021,
+      "isSoldOut": true,
+      "imageUrl": "https://images.genius.com/6469102e05275ca64f2b4c6c3f099f60.300x300x1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Aşkın Olayım",
+      "artist": "Simge Sağın",
+      "album": "(Single)",
+      "year": 2016,
+      "isSoldOut": false,
+      "imageUrl": "https://i1.sndcdn.com/artworks-LTlv2uxJHtKnFz2P-zjCjKA-t500x500.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Bulunmam Gerek",
+      "artist": "Can Bonomo",
+      "album": "Amir",
+      "year": 2018,
+      "isSoldOut": false,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/6a/Bulunmam_Gerek.jpg/250px-Bulunmam_Gerek.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Helal Olsun",
+      "artist": "Duman",
+      "album": "(Single)",
+      "year": 2008,
+      "isSoldOut": true,
+      "imageUrl": "https://i.ytimg.com/vi/yQ9B65Z4wi4/maxresdefault.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Nerdesin ?",
+      "artist": "Ezhel",
+      "album": "Satılık",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://images.genius.com/be4c624a28294aaeb60c2b7c6361a677.1000x1000x1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Aşık Oldum Ben Sana",
+      "artist": "Maran Marangöz",
+      "album": "(Single)",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://i.ytimg.com/vi/UcBFGv8mehg/maxresdefault.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Fırtınadayım",
+      "artist": "Mabel Matiz",
+      "album": "(Single)",
+      "year": 2020,
+      "isSoldOut": true,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOkM1Ge5sban51Cj7AcbMF3EPfUzTHtDYPL0lIW4wWPzL2DYRIPaQXZQdFZop0XvaKIMk&usqp=CAU"
+    },
+    {
+      "id": "10",
+      "title": "Dünyanın En Güzel Kızı",
+      "artist": "Mavi Gri",
+      "album": "En Güzel Hikayem",
+      "year": 2022,
+      "isSoldOut": false,
+      "imageUrl": "https://www.cevirce.com/tr/ceviri/wp-content/uploads/2021/12/mavi-gri-dunyanin-en-guzel-kizi-sarki-sozleri.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Yara",
+      "artist": "Raviş",
+      "album": "(Single)",
+      "year": 2015,
+      "isSoldOut": true,
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/16/5f/7a165ff6-6cbc-98f2-4d9a-c1871774c013/889845757283.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Olmazlara İnat",
+      "artist": "Berkay Altunyay",
+      "album": "(Single)",
+      "year": 2022,
+      "isSoldOut": true,
+      "imageUrl": "https://images.genius.com/db570f5c365f266e8ea88b5720643a18.1000x1000x1.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Yokluğunda",
+      "artist": "Leyla The Band",
+      "album": "(EP)",
+      "year": 2018,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0288f808bb875a0678818228fc"
+    },
+    {
+      "id": "14",
+      "title": "Ya Hep Ya Hiç",
+      "artist": "Şebnem Ferah",
+      "album": "Od",
+      "year": 2013,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273379476dcb16633eb518e4aa4"
+    }
+  ]
